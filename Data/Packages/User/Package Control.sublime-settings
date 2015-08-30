@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Markdown Preview",
+		"Maven",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint"
+	]
+}
