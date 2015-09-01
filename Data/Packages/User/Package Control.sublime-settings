@@ -5,18 +5,23 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"Can I Use",
 		"Colorsublime",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
 		"IMESupport",
+		"jQuery",
 		"Markdown Preview",
 		"Maven",
 		"Package Control",
+		"Predawn",
+		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-csslint",
 		"SublimeLinter-javac",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
 	]
 }

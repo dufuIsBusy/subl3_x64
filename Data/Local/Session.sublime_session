@@ -2,12 +2,16 @@
 	"folder_history":
 	[
 		"/E/git/dufuIsBusy.github.io",
+		"/E/svnProjects/宝融汇鑫/v1.0/brhxv1.0/templates",
+		"/E/svnProjects/宝融汇鑫/v1.0/brhxv1.0",
+		"/E/svnProjects/宝融汇鑫/v1.0/brhx_my/templates",
+		"/E/git/jeesite",
 		"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates",
 		"/E/svnProjects/v3.0/templates/hzrsNew",
 		"/E/svnProjects"
 	],
 	"last_version": 3083,
-	"last_window_id": 6,
+	"last_window_id": 10,
 	"log_indexing": false,
 	"settings":
 	{
@@ -38,10 +42,46 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "mar",
+				"height": 357.0,
+				"last_filter": "mvn",
 				"selected_items":
 				[
+					[
+						"mvn",
+						"Maven: Run ..."
+					],
+					[
+						"maven",
+						"Maven: Test"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pretify",
+						"HTMLPrettify"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
 					[
 						"mar",
 						"Markdown Preview: Preview in Browser"
@@ -63,23 +103,11 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: Remove Package"
 					],
 					[
 						"PA",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
 						"Package Control: Install Package"
 					],
 					[
@@ -91,7 +119,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 512.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -114,16 +142,46 @@
 			},
 			"file_history":
 			[
+				"/E/git/jeesite/src/main/resources/jeesite.properties",
+				"/E/eclipse-jee-luna_64/eclipse/eclipse.ini",
+				"/E/eclipse-jee-luna_64/eclipse/configuration/config.ini",
+				"/E/maven/apache-maven-3.3.3/conf/settings.xml",
+				"/E/BeX5_V3.2/mysql/my.ini",
+				"/E/BeX5_V3.2/mysql/my-innodb-heavy-4G.ini",
+				"/E/svnProjects/v3.0/templates/hzrsNew/wap/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
+				"/E/svnProjects/宝融汇鑫/宝融汇鑫静态页面/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/foot.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/head.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/phoneHead.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newsxq.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newslist.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/news.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/head.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/head.html",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/dscfg.xml",
+				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/d2oConfig.xml",
+				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/studio/dropins/studio-app2/config/dscfg.xml",
+				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/joinus.html",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/E/git/dufuIsBusy.github.io/添加资源管理器右键.bat",
+				"/E/git/dufuIsBusy.github.io/ip.md",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Preferences.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Package Control.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Preferences.sublime-settings",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/head.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/foot.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/index.html",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Base File.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/README.md",
@@ -133,7 +191,6 @@
 				"/E/git/dufuIsBusy.github.io/sublime text 快捷键.md",
 				"/E/svnProjects/dfg/8-20日报.txt",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/ip.md",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/Example.sublime-keymap",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
@@ -143,12 +200,10 @@
 				"/E/git/dufuIsBusy.github.io/ip.txt",
 				"/E/git/dufuIsBusy.github.io/sublime text 必备插件.md",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/添加资源管理器右键.bat",
 				"/E/git/dufuIsBusy.github.io/wifi.bat",
 				"/E/git/dufuIsBusy.github.io/README.md",
 				"/E/git/dufuIsBusy.github.io/index.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/wap/business.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/html/newslist.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/html/head.html",
 				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun1.asp",
@@ -164,7 +219,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 96.0,
 				"where_history":
 				[
 				]
@@ -174,6 +229,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mysql",
+					"公司根据现有项目",
+					"公司根据现有项目和业务设计统一的标准化的产品模板，形成产品库，后期根据客户的需求，首先从产品库中进行分类组合，满足客户需求，然后再进行个性化的定制，",
+					"page_news.min.css",
+					"=\"[",
 					"license",
 					"flogo",
 					"          \n",
@@ -265,6 +325,10 @@
 				"height": 0.0
 			},
 			"output.markdown":
+			{
+				"height": 130.0
+			},
+			"output.mvn_exec":
 			{
 				"height": 130.0
 			},
@@ -348,14 +412,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/E/git/dufuIsBusy.github.io/ip.md",
-					"settings":
-					{
-						"buffer_size": 1575,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -364,10 +420,58 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "mar",
+				"height": 368.0,
+				"last_filter": "list",
 				"selected_items":
 				[
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"col",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"mvn",
+						"Maven: Run ..."
+					],
+					[
+						"maven",
+						"Maven: Test"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pretify",
+						"HTMLPrettify"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
 					[
 						"mar",
 						"Markdown Preview: Preview in Browser"
@@ -389,23 +493,11 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: Remove Package"
 					],
 					[
 						"PA",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
 						"Package Control: Install Package"
 					],
 					[
@@ -417,7 +509,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 512.0
+				"width": 432.0
 			},
 			"console":
 			{
@@ -440,23 +532,72 @@
 			},
 			"expanded_folders":
 			[
-				"/E/git/dufuIsBusy.github.io"
+				"/E/git/dufuIsBusy.github.io/mysql"
 			],
 			"file_history":
 			[
+				"/E/git/Sublime_Text3_x64/.gitignore",
+				"/E/git/dufuIsBusy.github.io/mysql/mysql.md",
+				"/E/git/dufuIsBusy.github.io/mysql/my-small.ini",
+				"/E/git/dufuIsBusy.github.io/mysql/my.ini",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Markdown.sublime-settings",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Plain text.sublime-settings",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Preferences.sublime-settings",
+				"/E/git/dufuIsBusy.github.io/mysql/my-large.ini",
+				"/E/git/dufuIsBusy.github.io/ip.md",
+				"/E/git/dufuIsBusy.github.io/README.md",
+				"/E/git/Sublime_Text3_x64/Data/KEEPME",
+				"/E/git/Sublime_Text3_x64/Data/Packages/bz2/dependency-metadata.json",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Package Control.sublime-settings",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/JSON.sublime-settings",
+				"/E/git/dufuIsBusy.github.io/javascript笔记.md",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/MultiMarkdown.sublime-settings",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/Distraction Free.sublime-settings",
+				"/E/git/Sublime_Text3_x64/Data/Packages/User/encoding_cache.json",
+				"/E/git/dufuIsBusy.github.io/trsform-简体与繁体转换.js",
+				"/E/git/dufuIsBusy.github.io/mysql/my-huge.ini",
+				"/C/xampp/mysql/bin/my.ini",
+				"/E/git/dufuIsBusy.github.io/linux.md",
+				"/E/git/jeesite/src/main/resources/jeesite.properties",
+				"/E/eclipse-jee-luna_64/eclipse/eclipse.ini",
+				"/E/eclipse-jee-luna_64/eclipse/configuration/config.ini",
+				"/E/maven/apache-maven-3.3.3/conf/settings.xml",
+				"/E/BeX5_V3.2/mysql/my.ini",
+				"/E/BeX5_V3.2/mysql/my-innodb-heavy-4G.ini",
+				"/E/svnProjects/v3.0/templates/hzrsNew/wap/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
+				"/E/svnProjects/宝融汇鑫/宝融汇鑫静态页面/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/foot.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/head.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/phoneHead.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/about.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newsxq.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newslist.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/news.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/head.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/head.html",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/dscfg.xml",
+				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/d2oConfig.xml",
+				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/studio/dropins/studio-app2/config/dscfg.xml",
+				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
+				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/joinus.html",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
 				"/E/git/dufuIsBusy.github.io/添加资源管理器右键.bat",
-				"/E/git/dufuIsBusy.github.io/ip.md",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Preferences.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Package Control.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Preferences.sublime-settings",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/head.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/foot.html",
 				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/index.html",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Base File.sublime-settings",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/README.md",
@@ -476,10 +617,8 @@
 				"/E/git/dufuIsBusy.github.io/sublime text 必备插件.md",
 				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
 				"/E/git/dufuIsBusy.github.io/wifi.bat",
-				"/E/git/dufuIsBusy.github.io/README.md",
 				"/E/git/dufuIsBusy.github.io/index.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/wap/business.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/html/newslist.html",
 				"/E/svnProjects/v3.0/templates/hzrsNew/html/head.html",
 				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun1.asp",
@@ -495,7 +634,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 96.0,
 				"where_history":
 				[
 				]
@@ -505,6 +644,27 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"highlight_modified_tabs",
+					"highlight_line",
+					"caret_style",
+					"character_set_connection",
+					"utf8",
+					"server",
+					"Server",
+					"server",
+					"Server",
+					"server",
+					"Server",
+					"server",
+					"which",
+					"copy",
+					"gbk",
+					"character_set_client",
+					"mysql",
+					"公司根据现有项目",
+					"公司根据现有项目和业务设计统一的标准化的产品模板，形成产品库，后期根据客户的需求，首先从产品库中进行分类组合，满足客户需求，然后再进行个性化的定制，",
+					"page_news.min.css",
+					"=\"[",
 					"license",
 					"flogo",
 					"          \n",
@@ -585,104 +745,17 @@
 			"folders":
 			[
 				{
+					"path": "E:\\git\\jeesite"
+				},
+				{
 					"path": "E:\\git\\dufuIsBusy.github.io"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/E/git/dufuIsBusy.github.io/ip.md",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1575,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										959,
-										959
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -725,8 +798,12 @@
 			{
 				"height": 130.0
 			},
+			"output.mvn_exec":
+			{
+				"height": 130.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1047,0,7,1920",
+			"position": "0,0,1,-32000,-32000,-1,-1,1047,0,7,1920",
 			"project": "",
 			"replace":
 			{
@@ -785,7 +862,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 6,
+			"window_id": 8,
 			"workspace_name": ""
 		}
 	],
