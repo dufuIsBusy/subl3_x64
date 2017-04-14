@@ -1,27 +1,107 @@
 {
 	"folder_history":
 	[
-		"/E/git/dufuIsBusy.github.io",
-		"/E/svnProjects/宝融汇鑫/v1.0/brhxv1.0/templates",
-		"/E/svnProjects/宝融汇鑫/v1.0/brhxv1.0",
-		"/E/svnProjects/宝融汇鑫/v1.0/brhx_my/templates",
-		"/E/git/jeesite",
-		"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates",
-		"/E/svnProjects/v3.0/templates/hzrsNew",
-		"/E/svnProjects"
 	],
-	"last_version": 3083,
-	"last_window_id": 10,
+	"last_version": 3103,
+	"last_window_id": 15,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 981.0,
+		"new_window_height": 702.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"ti",
+						"tinymce.min.js"
+					],
+					[
+						"bs3-temp",
+						"bs3-template:html5	bs3-html5-template"
+					],
+					[
+						"elementId",
+						"  Returns the Element whose ID is given by elementId. If no"
+					],
+					[
+						"bs3-tem",
+						"bs3-template:html5	bs3-html5-template"
+					],
+					[
+						"ol",
+						"ol	ol"
+					],
+					[
+						"ul",
+						"ul	ul"
+					],
+					[
+						"s-alter-i",
+						"s-alter-idx	sql-alter-index"
+					],
+					[
+						"s-",
+						"s--if	(if ... else)"
+					],
+					[
+						"s",
+						"s-	sql-entity"
+					],
+					[
+						"s-t",
+						"s-trig	sql-trigger"
+					],
+					[
+						"cy",
+						"cytoscape.js"
+					],
+					[
+						"j",
+						"jqGrid/"
+					],
+					[
+						"r",
+						"require.js"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"de",
+						"DEFAULT"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"bs3tem",
+						"bs3-template:starter	bs3-template.starter"
+					],
+					[
+						"e",
+						"tableExport.jquery.plugin"
+					],
+					[
+						"t",
+						"tooltip.js"
+					],
+					[
+						"boo",
+						"bootstrap.min.js"
+					],
+					[
+						"dist",
+						"dist/"
+					],
+					[
+						"boots",
+						"bower_components/"
+					],
 					[
 						"si",
 						"background-size"
@@ -42,10 +122,146 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "mvn",
+				"height": 368.0,
+				"last_filter": "html",
 				"selected_items":
 				[
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"PREVIEW",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Copy to Clipboard"
+					],
+					[
+						"markdown:pre",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"tasknew",
+						"Tasks: New document"
+					],
+					[
+						"gutt",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"gutter",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"task",
+						"Tasks: View as HTML"
+					],
+					[
+						"gu",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: a"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"\\",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"gti stat",
+						"GitStatus: Changed files"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"musql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"m",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"col",
+						"Colorsublime: Install Theme"
+					],
 					[
 						"mvn",
 						"Maven: Run ..."
@@ -59,36 +275,12 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"pretify",
 						"HTMLPrettify"
 					],
 					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"isntall",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
-					],
-					[
 						"mar",
 						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ma",
-						"MarkdownEditing: Markdown Lint"
 					],
 					[
 						"in",
@@ -111,15 +303,11 @@
 						"Package Control: Install Package"
 					],
 					[
-						"mark",
-						"Markdown Preview: Copy to Clipboard"
-					],
-					[
 						"p",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 464.0
+				"width": 432.0
 			},
 			"console":
 			{
@@ -142,80 +330,138 @@
 			},
 			"file_history":
 			[
-				"/E/git/jeesite/src/main/resources/jeesite.properties",
-				"/E/eclipse-jee-luna_64/eclipse/eclipse.ini",
-				"/E/eclipse-jee-luna_64/eclipse/configuration/config.ini",
-				"/E/maven/apache-maven-3.3.3/conf/settings.xml",
-				"/E/BeX5_V3.2/mysql/my.ini",
-				"/E/BeX5_V3.2/mysql/my-innodb-heavy-4G.ini",
-				"/E/svnProjects/v3.0/templates/hzrsNew/wap/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
-				"/E/svnProjects/宝融汇鑫/宝融汇鑫静态页面/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/foot.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/phoneHead.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newsxq.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newslist.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/news.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/head.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/dscfg.xml",
-				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/d2oConfig.xml",
-				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/studio/dropins/studio-app2/config/dscfg.xml",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/joinus.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/添加资源管理器右键.bat",
-				"/E/git/dufuIsBusy.github.io/ip.md",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Preferences.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Package Control.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Preferences.sublime-settings",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/foot.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/index.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Base File.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/README.md",
-				"/E/git/jeesite/src/main/webapp/static/jqGrid/4.6/css/ui.jqgrid.css",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/apache-tomcat/conf/server.xml",
-				"/E/git/dufuIsBusy.github.io/sublime text 快捷键.md",
-				"/E/svnProjects/dfg/8-20日报.txt",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/Example.sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_swapping.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/CTags/CTags.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/CTags/Default.sublime-keymap",
-				"/E/git/dufuIsBusy.github.io/ip.txt",
-				"/E/git/dufuIsBusy.github.io/sublime text 必备插件.md",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/wifi.bat",
-				"/E/git/dufuIsBusy.github.io/README.md",
-				"/E/git/dufuIsBusy.github.io/index.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/wap/business.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/newslist.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/head.html",
-				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun1.asp",
-				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun.asp",
-				"/E/svnProjects/v3.0/inc/AspCms_CommonFun.asp",
-				"/E/svnProjects/v3.0/inc/AspCms_CommonFun1.asp",
-				"/E/svnProjects/v3.0/config/AspCms_Config.asp",
-				"/E/svnProjects/v3.0/templates/hzrsNew/css/m-style.css"
+				"/D/bootstrap/README.md",
+				"/C/Users/wb-dufugang/logs/diamond-client/diamond-client.log",
+				"/C/Users/wb-dufugang/Desktop/t_hitch.sql",
+				"/C/Users/wb-dufugang/.m2/settings.xml",
+				"/D/taobao-tomcat-7.0.52.1/bin/catalina.bat",
+				"/D/repo/repo/tool/idea.md",
+				"/D/repo/repo/tool/git.md",
+				"/C/Users/wb-dufugang/logs/pandora/pandora.log",
+				"/C/Users/wb-dufugang/logs/tomcat-monitor/tomcat-monitor.log",
+				"/C/Users/wb-dufugang/logs/spas/spas_sdk.log",
+				"/C/Users/wb-dufugang/logs/router/router.log",
+				"/C/Users/wb-dufugang/logs/pandora/pandora-qos.log",
+				"/C/Users/wb-dufugang/logs/pandora/pandora-framework.log",
+				"/C/Users/wb-dufugang/logs/jmonitor.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/biz_eagleeye.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/eagleeye-self.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/eagleeye.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-custom.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-notify.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-qps-custom.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-qps-trace.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-qps.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-runtime.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-tair.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-tddl.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-thread.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-trace.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-tomcat.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/trace-atp.log",
+				"/C/Users/wb-dufugang/logs/hsf/hsf.log",
+				"/C/Users/wb-dufugang/logs/metrics/metrics.log",
+				"/C/Users/wb-dufugang/logs/monitor/stat-hsf.log",
+				"/C/Users/wb-dufugang/logs/oplog_sls/collect_d.log",
+				"/C/Users/wb-dufugang/logs/oplog_sls/collect_d.log.20170215",
+				"/C/Users/wb-dufugang/logs/oplog_sls/collect_d.log.20170216",
+				"/C/Users/wb-dufugang/logs/pandolet/pandora-pandolet.log",
+				"/D/文档/开发中遇到的问题.txt",
+				"/C/Users/wb-dufugang/Desktop/待定.txt",
+				"/C/Users/wb-dufugang/Desktop/云雀代办事项.todo",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-hsf.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-jvm.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-local.log",
+				"/C/Users/wb-dufugang/logs/eagleeye/stat-eagleeye-metaq.log",
+				"/C/Users/wb-dufugang/logs/tomcat-monitor/jersey.log",
+				"/C/Users/wb-dufugang/logs/tomcat-monitor/metrics.log",
+				"/D/文档/sh脚本说明文档",
+				"/C/Users/wb-dufugang/Desktop/1、需要提供CORP_ID和CORP_SECRET",
+				"/D/repo/repo/mysql/mysql.md",
+				"/D/release/cloudEyes_2017年2月16日/alter.sql",
+				"/C/Users/wb-dufugang/Desktop/test.html",
+				"/D/release/cloudEyes_2017年2月16日/更新说明.txt",
+				"/D/repo/repo/linux/linux.md",
+				"/D/ali/java-sdk-demo-mvn/README.md",
+				"/D/repo/repo/tool/chrome.md",
+				"/D/release/cloudEyes_2017年2月9日/更新说明.txt",
+				"/D/repo/ding-isv-common/README.md",
+				"/D/release/cloudEyes_2017年1月22日/更新说明.txt",
+				"/C/Users/wb-dufugang/Desktop/通知模板源代码.html",
+				"/C/Users/wb-dufugang/Downloads/jbar-master/index.html",
+				"/D/release/cloudEyes_2017年1月19日/更新说明.txt",
+				"/C/Users/wb-dufugang/Downloads/jbar-master/js/jbar.js",
+				"/D/repo/highcharts/samples/highcharts/3d/column/demo.css",
+				"/D/ali/oss-h5-upload-js-php/style.css",
+				"/D/release/cloudEyes_2017年1月16日/更新说明.txt",
+				"/D/release/cloudEyes_2017年1月12日/insert.sql",
+				"/D/release/cloudEyes_2017年1月13日/更新说明.txt",
+				"/D/release/cloudEyes_2017年1月12日/更新说明.txt",
+				"/C/Users/wb-dufugang/Desktop/insert.sql",
+				"/D/IdeaProjects/cloudEyes/database/insert.sql",
+				"/D/repo/bootstrap-daterangepicker/example/browserify/index.html",
+				"/D/release/cloudEyes_2017年1月12日/create.sql",
+				"/D/release/cloudEyes_2017年1月12日/alter.sql",
+				"/D/release/cloudEyes_2017年1月12日/delete.sql",
+				"/D/release/cloudEyes_2017年1月12日/update.sql",
+				"/D/release/cloudEyes_2016年12月30日/insert.sql",
+				"/C/Users/wb-dufugang/Desktop/t_group_send_email.sql",
+				"/D/repo/tinymce/js/tinymce/skins/lightgray/ResizeHandle.less",
+				"/D/repo/tinymce/js/tinymce/skins/lightgray/Panel.less",
+				"/D/repo/tinymce/js/tinymce/skins/lightgray/ColorBox.less",
+				"/D/repo/tinymce/js/tinymce/skins/lightgray/Arrows.less",
+				"/D/repo/tinymce/tmp/tinymce_4.5.2/tinymce/js/tinymce/demo/tiny.html",
+				"/D/repo/tinymce/js/tinymce/plugins/example_dependency/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/image/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/imagetools/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/legacyoutput/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/media/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/nonbreaking/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/noneditable/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/save/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/searchreplace/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/spellchecker/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/tabfocus/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/template/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/textpattern/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/toc/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/visualblocks/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/visualchars/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/wordcount/plugin.js",
+				"/D/repo/tinymce/js/tinymce/tinymce.dev.js",
+				"/D/repo/tinymce/js/tinymce/plugins/hr/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/advlist/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/autolink/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/autoresize/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/autosave/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/colorpicker/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/compat3x/plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/example/plugin.js",
+				"/D/repo/tinymce/js/tinymce/tinymce.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/Quirks.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/SmartPaste.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/Utils.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/WordFilter.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/plugin.min.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/Plugin.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/classes/Clipboard.js",
+				"/D/repo/tinymce/js/tinymce/plugins/paste/plugin.dev.js",
+				"/D/repo/tinymce/tmp/tinymce_4.5.2/tinymce/js/tinymce/plugins/paste/plugin.min.js",
+				"/C/Users/wb-dufugang/Downloads/tinymce_languages/langs/zh_CN.js",
+				"/D/repo/tinymce/js/tinymce/langs/readme.md",
+				"/D/repo/tinymce/changelog.txt",
+				"/D/repo/tinymce/Gruntfile.js",
+				"/D/repo/tinymce/readme.md",
+				"/D/repo/tinymce/npm-debug.log",
+				"/D/repo/tinymce/tools/bolt/config/browser.js",
+				"/D/repo/tinymce/tools/modules/zip-helper.js",
+				"/D/repo/tinymce/tools/docs/tinymce.Editor.js",
+				"/D/repo/tinymce/.editorconfig",
+				"/D/repo/repo/.editorConfig"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 56.0
 			},
 			"find_in_files":
 			{
@@ -226,77 +472,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"mysql",
-					"公司根据现有项目",
-					"公司根据现有项目和业务设计统一的标准化的产品模板，形成产品库，后期根据客户的需求，首先从产品库中进行分类组合，满足客户需求，然后再进行个性化的定制，",
-					"page_news.min.css",
-					"=\"[",
-					"license",
-					"flogo",
-					"          \n",
-					"@envesgo.com‍",
-					"info",
-					"jzdbinfo",
-					"info",
-					"`",
-					" `",
-					"kbd",
-					"去掉组件、报表图表、演示案例",
-					"新增客户资源和客户需求字段",
-					" \n",
-					"bind",
-					"     ",
-					"dddddd",
-					"list_field1",
-					" \n",
-					"\"\n",
-					"components",
+					"(String)",
+					"http",
+					"ERROR",
+					"id",
+					"ERROR",
+					"CONSTRAINT",
+					"ERROR",
+					"error",
+					"PeriodUtil.java",
+					"2015-11-26",
+					"2016-11-26",
+					"PeriodUtil.java",
+					"hitch_sheet_count",
+					"hitch_product_line",
+					"ecs",
+					"ECS,UC",
+					"hitch_product_line",
+					"status",
+					"hitch_id",
+					".sh",
+					"hitch_sheet_count",
+					"hitch_impact_level",
+					"hitch_sheet_count",
+					"hitch_level",
+					"如果简历中大量堆砌了流行的技术概念（如 React, MVVM, ES6 等等）而没有具体详细地指出这些技术在项目中的落实情况，那么就可以把这些忽略掉了。\n专精领域\n自我介绍，工作经历介绍",
+					"open",
+					"223",
+					"add",
+					"settings",
+					"init(",
+					"init",
+					"defaultView",
+					"default",
+					"<!-- Bootstrap CSS -->\n		<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\" crossorigin=\"anonymous\">\n\n		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n		<!--[if lt IE 9]>\n			<script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js\"></script>\n			<script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n		<![endif]-->",
+					"update",
+					"update_check",
+					"update_chec",
+					"img",
+					"加异常处理",
+					"使用一种模板引擎",
+					"\n#",
+					"Table structure",
+					"utf8_bin COMMENT",
+					"EXISTS",
+					"CHARSET=utf8 COMMENT",
+					"ENGINE",
+					"evel\nsearch_secondLevel",
+					"search_secondLevel",
+					"(String)",
+					"|",
+					"|  ",
+					"| ",
+					"|",
+					"urkl",
+					"x-editable",
+					"(String)",
+					"(Integer)",
+					"(String)",
+					"cc_thousand_count",
+					"cc_count",
+					"t_cc_info_statistics",
+					"(String)",
+					"statistics_period_number=?",
+					"statistics_period_number=\\?",
+					"statistics_period_number=?",
+					"周期数字:",
+					"\"productId\"",
+					"\n        \"productId\": 18,",
+					"\"productId\"",
+					"(String)",
+					"body",
+					"init",
+					"ImportWorkOrderBySystem",
+					"从工单系统中分页查询工单数",
+					"从工单系统中分页查询工单数据用时",
+					"(String)",
+					"_create",
+					"layout",
+					"(String)",
+					"，",
+					"(String)",
+					"(",
 					",\n",
-					"行",
-					"3、boolean",
-					"4、Enclosing",
-					"literal",
-					"6、Local",
-					"your",
-					"considered",
-					"value",
-					"representation",
-					"variables",
-					"information",
-					"of",
-					"different",
-					"Relying",
-					"4、Enclosing",
-					"This",
-					"05",
-					"17",
-					"DateTime",
-					"data",
-					"复制当前行内容到下一行：",
-					"移动当前行内容到下一行：",
-					"将当前屏幕分为上下左右四屏：",
-					"Alt",
-					"`",
-					"复制当前行内容到下一行：",
-					"`\n",
-					"\n``",
-					"复制当前行内容到下一行：",
-					"``\n",
-					"###",
-					"\n###",
-					"### ",
-					"##",
-					"label",
-					"SELECT",
-					"酥颗点肌",
-					"false",
-					"caret",
-					"caret\n",
-					"content",
-					"分页"
+					"baz",
+					"triangle",
+					"数据管理",
+					"数据集成",
+					"批量计算",
+					"安全管家服务",
+					"安全网络",
+					"先知计划",
+					"标准建站",
+					"Web应用防火墙",
+					"专有网络VPC",
+					"售后支持计划",
+					"短信服务",
+					"安全日志管理",
+					"负载均衡",
+					"态势感知SAS",
+					"云数据库RDS",
+					"云盾安骑士",
+					"OTS资源包",
+					"表格存储",
+					"OSS资源包",
+					"开放搜索",
+					"数加ODPS",
+					"云数据库Memcache版",
+					"NAT网关",
+					"消息服务",
+					"HTTPDNS",
+					"性能测试",
+					"PB级云数据库PetaData",
+					"高性能计算HPC",
+					"实例id",
+					"云盘",
+					"采云间DPC",
+					"对象存储OSS",
+					"大数据计算服务ODPS",
+					"归档存储",
+					"文件存储NAS",
+					"媒体转码",
+					"服务器安全托管",
+					"企业邮箱",
+					"云数据库Redis版",
+					"按量镜像市场镜像",
+					"云盾加密服务",
+					"高速通道",
+					"E-MapReduce"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -313,7 +619,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 56.0
 			},
 			"input":
 			{
@@ -345,16 +651,304 @@
 				"selected_items":
 				[
 					[
+						"idea",
+						"repo\\repo\\tool\\idea.md"
+					],
+					[
+						"git",
+						"repo\\repo\\tool\\git.md"
+					],
+					[
+						"idea.md",
+						"repo\\repo\\tool\\idea.md"
+					],
+					[
+						"mysql.md",
+						"repo\\repo\\mysql\\mysql.md"
+					],
+					[
+						"linux",
+						"repo\\repo\\linux\\linux.md"
+					],
+					[
+						"readme.md",
+						"ali\\java-sdk-demo-mvn\\README.md"
+					],
+					[
+						"chrome",
+						"repo\\repo\\tool\\chrome.md"
+					],
+					[
+						"styl",
+						"ali\\oss-h5-upload-js-php\\style.css"
+					],
+					[
+						"demo.css",
+						"repo\\highcharts\\samples\\highcharts\\3d\\column\\demo.css"
+					],
+					[
+						"host",
+						"C:\\Windows\\System32\\drivers\\etc\\hosts"
+					],
+					[
+						"sublimem",
+						"repo\\repo\\tool\\sublime text.md"
+					],
+					[
+						"sublimemd",
+						"repo\\repo\\tool\\sublime text.md"
+					],
+					[
+						"demo-bs3.html",
+						"repo\\jsrender\\demos\\step-by-step\\03_converters-and-encoding.html"
+					],
+					[
+						"987.html",
+						"bootstrap-table-examples\\issues\\987.html"
+					],
+					[
+						"386.html",
+						"highcharts\\samples\\issues\\highcharts-4.1.1\\3866-datalabels-overlap-hidden-series\\demo.html"
+					],
+					[
+						"jquery.datatables.js",
+						"adminex_html-weidea.net\\html\\js\\data-tables\\jquery.dataTables.js"
+					],
+					[
+						"dt_bootstrap.js",
+						"adminex_html-weidea.net\\html\\js\\data-tables\\DT_bootstrap.js"
+					],
+					[
+						"editable-table.js",
+						"adminex_html-weidea.net\\html\\js\\editable-table.js"
+					],
+					[
+						"editable_table.html",
+						"adminex_html-weidea.net\\html\\editable_table.html"
+					],
+					[
+						"",
+						"D:\\repo\\cloudEyes\\src\\main\\webapp\\WEB-INF\\view\\common\\menu.jsp"
+					],
+					[
+						"processtimefilter",
+						"vip\\src\\com\\mmcms\\common\\web\\ProcessTimeFilter.java"
+					],
+					[
+						"updaterow",
+						"bootstrap-table-examples\\methods\\updateRow.html"
+					],
+					[
+						"getdata.html",
+						"bootstrap-table-examples\\methods\\getData.html"
+					],
+					[
+						"chosen",
+						"bower\\bower_components\\chosen\\chosen.jquery.js"
+					],
+					[
+						"tableexport",
+						"tableExport.jquery.plugin\\tableExport.js"
+					],
+					[
+						"mybase64",
+						"sample\\mybase64.js"
+					],
+					[
+						"export.html",
+						"bootstrap-table-examples\\extensions\\export.html"
+					],
+					[
+						"431.html",
+						"bootstrap-table-examples\\issues\\431.html"
+					],
+					[
+						"424.html",
+						"bootstrap-table-examples\\issues\\424.html"
+					],
+					[
+						"getrowbyuniqueid.html",
+						"bootstrap-table-examples\\methods\\getRowByUniqueId.html"
+					],
+					[
+						"409.html",
+						"bootstrap-table-examples\\issues\\409.html"
+					],
+					[
+						"toolbar.html",
+						"bootstrap-table-examples\\extensions\\toolbar.html"
+					],
+					[
+						"917.html",
+						"bootstrap-table-examples\\issues\\917.html"
+					],
+					[
+						"406.html",
+						"bootstrap-table-examples\\issues\\406.html"
+					],
+					[
+						"221.html",
+						"bootstrap-table-examples\\issues\\221.html"
+					],
+					[
+						"177.html",
+						"bootstrap-table-examples\\issues\\177.html"
+					],
+					[
+						"152.html",
+						"bootstrap-table-examples\\issues\\152.html"
+					],
+					[
+						"137.html",
+						"bootstrap-table-examples\\issues\\137.html"
+					],
+					[
+						"bootstrap-table-toolbar.js",
+						"bower\\bower_components\\bootstrap-table\\dist\\extensions\\toolbar\\bootstrap-table-toolbar.js"
+					],
+					[
+						"resizable.html",
+						"bootstrap-table-examples\\extensions\\resizable.html"
+					],
+					[
+						"bootstrap-table-filter.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table-filter\\extension\\bootstrap-table-filter.js"
+					],
+					[
+						"filter-control.html",
+						"bootstrap-table-examples\\extensions\\filter-control.html"
+					],
+					[
+						"561.html",
+						"bootstrap-table-examples\\issues\\561.html"
+					],
+					[
+						"getoptions.html",
+						"bootstrap-table-examples\\methods\\getOptions.html"
+					],
+					[
+						"load.html",
+						"bootstrap-table-examples\\methods\\load.html"
+					],
+					[
+						"modal-table.html",
+						"bootstrap-table-examples\\options\\modal-table.html"
+					],
+					[
+						"986.html",
+						"bootstrap-table-examples\\issues\\986.html"
+					],
+					[
+						"579.html",
+						"bootstrap-table-examples\\issues\\579.html"
+					],
+					[
+						"resetview.html",
+						"bootstrap-table-examples\\methods\\resetView.html"
+					],
+					[
+						"415.html",
+						"bootstrap-table-examples\\issues\\415.html"
+					],
+					[
+						"getallselections.html",
+						"bootstrap-table-examples\\methods\\getAllSelections.html"
+					],
+					[
+						"updatebyuniqueid.html",
+						"bootstrap-table-examples\\methods\\updateByUniqueId.html"
+					],
+					[
+						"format.html",
+						"bootstrap-table-examples\\options\\format.html"
+					],
+					[
+						"337.html",
+						"bootstrap-table-examples\\issues\\337.html"
+					],
+					[
+						"radia",
+						"bootstrap-table-examples\\options\\disabled-checkbox.html"
+					],
+					[
+						"371.html",
+						"bootstrap-table-examples\\issues\\371.html"
+					],
+					[
+						"383.html",
+						"bootstrap-table-examples\\issues\\383.html"
+					],
+					[
+						"mergecells.html",
+						"bootstrap-table-examples\\methods\\mergeCells.html"
+					],
+					[
+						"boolean-options.html",
+						"bootstrap-table-examples\\options\\boolean-options.html"
+					],
+					[
+						"custom-ajax.html",
+						"bootstrap-table-examples\\options\\custom-ajax.html"
+					],
+					[
+						"editable.html",
+						"bootstrap-table-examples\\extensions\\editable.html"
+					],
+					[
+						"updaterow.html",
+						"bootstrap-table-examples\\methods\\updateRow.html"
+					],
+					[
+						"refresh.html",
+						"bootstrap-table-examples\\methods\\refresh.html"
+					],
+					[
+						"bootstrap-editable.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table\\src\\extensions\\editable\\bootstrap-table-editable.js"
+					],
+					[
+						"bootstrap-table-editable.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table\\src\\extensions\\editable\\bootstrap-table-editable.js"
+					],
+					[
+						"refreshoptions.html",
+						"bootstrap-table-examples\\methods\\refreshOptions.html"
+					],
+					[
+						"remove.html",
+						"bootstrap-table-examples\\methods\\remove.html"
+					],
+					[
+						"server-side-pagination.html",
+						"bootstrap-table-examples\\options\\server-side-pagination.html"
+					],
+					[
+						"showloading-hideloading",
+						"bootstrap-table-examples\\methods\\showLoading-hideLoading.html"
+					],
+					[
+						"modal-table",
+						"bootstrap-table-examples\\options\\modal-table.html"
+					],
+					[
+						"ga",
+						"bootstrap-table-examples\\ga.js"
+					],
+					[
+						"inser",
+						"bootstrap-table-examples\\methods\\insertRow.html"
+					],
+					[
+						"form",
+						"框架样例\\form.html"
+					],
+					[
 						"brhx_new/in",
 						"brhx_new\\html\\index.html"
 					],
 					[
 						"inde",
 						"brhx\\html\\index.html"
-					],
-					[
-						"",
-						"index.html"
 					]
 				],
 				"width": 0.0
@@ -381,13 +975,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 303.0,
-			"status_bar_visible": true,
+			"side_bar_width": 346.0,
+			"status_bar_visible": false,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1904.0
+		"new_window_width": 1262.0
 	},
 	"windows":
 	[
@@ -396,6 +990,98 @@
 			{
 				"selected_items":
 				[
+					[
+						"css",
+						"css('display','none"
+					],
+					[
+						"ti",
+						"tinymce.min.js"
+					],
+					[
+						"bs3-temp",
+						"bs3-template:html5	bs3-html5-template"
+					],
+					[
+						"elementId",
+						"  Returns the Element whose ID is given by elementId. If no"
+					],
+					[
+						"bs3-tem",
+						"bs3-template:html5	bs3-html5-template"
+					],
+					[
+						"ol",
+						"ol	ol"
+					],
+					[
+						"ul",
+						"ul	ul"
+					],
+					[
+						"s-alter-i",
+						"s-alter-idx	sql-alter-index"
+					],
+					[
+						"s-",
+						"s--if	(if ... else)"
+					],
+					[
+						"s",
+						"s-	sql-entity"
+					],
+					[
+						"s-t",
+						"s-trig	sql-trigger"
+					],
+					[
+						"cy",
+						"cytoscape.js"
+					],
+					[
+						"j",
+						"jqGrid/"
+					],
+					[
+						"r",
+						"require.js"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"de",
+						"DEFAULT"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"bs3tem",
+						"bs3-template:starter	bs3-template.starter"
+					],
+					[
+						"e",
+						"tableExport.jquery.plugin"
+					],
+					[
+						"t",
+						"tooltip.js"
+					],
+					[
+						"boo",
+						"bootstrap.min.js"
+					],
+					[
+						"dist",
+						"dist/"
+					],
+					[
+						"boots",
+						"bower_components/"
+					],
 					[
 						"si",
 						"background-size"
@@ -420,25 +1106,157 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 368.0,
-				"last_filter": "list",
+				"height": 303.0,
+				"last_filter": "pacinsta",
 				"selected_items":
 				[
 					[
-						"list",
-						"Package Control: List Packages"
+						"pacinsta",
+						"Package Control: Install Package"
+					],
+					[
+						"pacre",
+						"Package Control: Remove Package"
+					],
+					[
+						"pacin",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
 					],
 					[
 						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"prett",
 						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"PREVIEW",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown:pre",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"tasknew",
+						"Tasks: New document"
+					],
+					[
+						"gutt",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"gutter",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"task",
+						"Tasks: View as HTML"
+					],
+					[
+						"gu",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: a"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"\\",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"gti stat",
+						"GitStatus: Changed files"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
 						"isntall",
 						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"musql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"m",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
 					],
 					[
 						"col",
@@ -461,24 +1279,8 @@
 						"HTMLPrettify"
 					],
 					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
-					],
-					[
 						"mar",
 						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ma",
-						"MarkdownEditing: Markdown Lint"
 					],
 					[
 						"in",
@@ -501,15 +1303,11 @@
 						"Package Control: Install Package"
 					],
 					[
-						"mark",
-						"Markdown Preview: Copy to Clipboard"
-					],
-					[
 						"p",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 432.0
+				"width": 496.0
 			},
 			"console":
 			{
@@ -530,107 +1328,12 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/git/dufuIsBusy.github.io/mysql"
-			],
 			"file_history":
 			[
-				"/E/git/Sublime_Text3_x64/.gitignore",
-				"/E/git/dufuIsBusy.github.io/mysql/mysql.md",
-				"/E/git/dufuIsBusy.github.io/mysql/my-small.ini",
-				"/E/git/dufuIsBusy.github.io/mysql/my.ini",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Markdown.sublime-settings",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Plain text.sublime-settings",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Preferences.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/mysql/my-large.ini",
-				"/E/git/dufuIsBusy.github.io/ip.md",
-				"/E/git/dufuIsBusy.github.io/README.md",
-				"/E/git/Sublime_Text3_x64/Data/KEEPME",
-				"/E/git/Sublime_Text3_x64/Data/Packages/bz2/dependency-metadata.json",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Package Control.sublime-settings",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/JSON.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/javascript笔记.md",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/MultiMarkdown.sublime-settings",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/Distraction Free.sublime-settings",
-				"/E/git/Sublime_Text3_x64/Data/Packages/User/encoding_cache.json",
-				"/E/git/dufuIsBusy.github.io/trsform-简体与繁体转换.js",
-				"/E/git/dufuIsBusy.github.io/mysql/my-huge.ini",
-				"/C/xampp/mysql/bin/my.ini",
-				"/E/git/dufuIsBusy.github.io/linux.md",
-				"/E/git/jeesite/src/main/resources/jeesite.properties",
-				"/E/eclipse-jee-luna_64/eclipse/eclipse.ini",
-				"/E/eclipse-jee-luna_64/eclipse/configuration/config.ini",
-				"/E/maven/apache-maven-3.3.3/conf/settings.xml",
-				"/E/BeX5_V3.2/mysql/my.ini",
-				"/E/BeX5_V3.2/mysql/my-innodb-heavy-4G.ini",
-				"/E/svnProjects/v3.0/templates/hzrsNew/wap/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/index.html",
-				"/E/svnProjects/宝融汇鑫/宝融汇鑫静态页面/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/foot.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/phoneHead.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/about.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newsxq.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/newslist.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/news.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/_old/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_old/html/head.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/dscfg.xml",
-				"/E/BeX5_V3.2/studio/dropins/studio-app2/config/d2oConfig.xml",
-				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/studio/dropins/studio-app2/config/dscfg.xml",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/index.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx/html/joinus.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/添加资源管理器右键.bat",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Preferences.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Package Control.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Preferences.sublime-settings",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/head.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/foot.html",
-				"/E/svnProjects/宝融汇鑫/v1.0/brhx/templates/brhx_new/html/index.html",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/User/Base File.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/DocBlockr/README.md",
-				"/E/git/jeesite/src/main/webapp/static/jqGrid/4.6/css/ui.jqgrid.css",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/C/Users/debuger/Downloads/北京起步办公自动化_5.3.2/产品资源/x5.3.2/apache-tomcat/conf/server.xml",
-				"/E/git/dufuIsBusy.github.io/sublime text 快捷键.md",
-				"/E/svnProjects/dfg/8-20日报.txt",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/Example.sublime-keymap",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/BracketHighlighter/bh_swapping.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/CTags/CTags.sublime-settings",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/CTags/Default.sublime-keymap",
-				"/E/git/dufuIsBusy.github.io/ip.txt",
-				"/E/git/dufuIsBusy.github.io/sublime text 必备插件.md",
-				"/E/SublimeText3/Sublime Text Build 3033 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/E/git/dufuIsBusy.github.io/wifi.bat",
-				"/E/git/dufuIsBusy.github.io/index.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/wap/business.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/newslist.html",
-				"/E/svnProjects/v3.0/templates/hzrsNew/html/head.html",
-				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun1.asp",
-				"/E/svnProjects/v3.0/admin/_seo/AspCms_MakeHtmlFun.asp",
-				"/E/svnProjects/v3.0/inc/AspCms_CommonFun.asp",
-				"/E/svnProjects/v3.0/inc/AspCms_CommonFun1.asp",
-				"/E/svnProjects/v3.0/config/AspCms_Config.asp",
-				"/E/svnProjects/v3.0/templates/hzrsNew/css/m-style.css"
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 56.0
 			},
 			"find_in_files":
 			{
@@ -641,93 +1344,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"highlight_modified_tabs",
-					"highlight_line",
-					"caret_style",
-					"character_set_connection",
-					"utf8",
-					"server",
-					"Server",
-					"server",
-					"Server",
-					"server",
-					"Server",
-					"server",
-					"which",
-					"copy",
-					"gbk",
-					"character_set_client",
-					"mysql",
-					"公司根据现有项目",
-					"公司根据现有项目和业务设计统一的标准化的产品模板，形成产品库，后期根据客户的需求，首先从产品库中进行分类组合，满足客户需求，然后再进行个性化的定制，",
-					"page_news.min.css",
-					"=\"[",
-					"license",
-					"flogo",
-					"          \n",
-					"@envesgo.com‍",
-					"info",
-					"jzdbinfo",
-					"info",
+					"` ",
 					"`",
-					" `",
-					"kbd",
-					"去掉组件、报表图表、演示案例",
-					"新增客户资源和客户需求字段",
-					" \n",
-					"bind",
-					"     ",
-					"dddddd",
-					"list_field1",
-					" \n",
-					"\"\n",
-					"components",
+					"/productDynamic/sendDtalk.action",
+					");\n",
+					"loadBall",
+					"ball_count",
+					"balls_array",
+					"canvas",
+					"eatTopBox",
+					"alias",
+					"需求管理默认展开",
+					"active",
+					"num",
+					"bool",
+					"num",
+					"                        \n",
+					"更新application缓存",
+					"fastjson",
+					"fastjosn",
+					"null",
+					"\"name\"",
+					"remove",
+					"clearBars",
+					"resize",
+					"getBody",
+					"RESIZE_BAR_CLASS",
+					"function dragHandler",
+					"dragHandler",
+					"mouseDownHandler",
+					"bindFakeDragEvents",
+					"isContentEditableFalse",
+					"drag",
+					"dragg",
+					"contenteditable",
+					"convertRegExpsToNonEditable",
+					"https://oapi.dingtalk.com/robot/send?access_token=b398374e07244249b4dd274d295af271f4f4e3a22f8ebeed00a4f4d9fd73da85",
+					"(String)",
+					"http",
+					"ERROR",
+					"id",
+					"ERROR",
+					"CONSTRAINT",
+					"ERROR",
+					"error",
+					"PeriodUtil.java",
+					"2015-11-26",
+					"2016-11-26",
+					"PeriodUtil.java",
+					"hitch_sheet_count",
+					"hitch_product_line",
+					"ecs",
+					"ECS,UC",
+					"hitch_product_line",
+					"status",
+					"hitch_id",
+					".sh",
+					"hitch_sheet_count",
+					"hitch_impact_level",
+					"hitch_sheet_count",
+					"hitch_level",
+					"如果简历中大量堆砌了流行的技术概念（如 React, MVVM, ES6 等等）而没有具体详细地指出这些技术在项目中的落实情况，那么就可以把这些忽略掉了。\n专精领域\n自我介绍，工作经历介绍",
+					"open",
+					"223",
+					"add",
+					"settings",
+					"init(",
+					"init",
+					"defaultView",
+					"default",
+					"<!-- Bootstrap CSS -->\n		<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\" crossorigin=\"anonymous\">\n\n		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n		<!--[if lt IE 9]>\n			<script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js\"></script>\n			<script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n		<![endif]-->",
+					"update",
+					"update_check",
+					"update_chec",
+					"img",
+					"加异常处理",
+					"使用一种模板引擎",
+					"\n#",
+					"Table structure",
+					"utf8_bin COMMENT",
+					"EXISTS",
+					"CHARSET=utf8 COMMENT",
+					"ENGINE",
+					"evel\nsearch_secondLevel",
+					"search_secondLevel",
+					"(String)",
+					"|",
+					"|  ",
+					"| ",
+					"|",
+					"urkl",
+					"x-editable",
+					"(String)",
+					"(Integer)",
+					"(String)",
+					"cc_thousand_count",
+					"cc_count",
+					"t_cc_info_statistics",
+					"(String)",
+					"statistics_period_number=?",
+					"statistics_period_number=\\?",
+					"statistics_period_number=?",
+					"周期数字:",
+					"\"productId\"",
+					"\n        \"productId\": 18,",
+					"\"productId\"",
+					"(String)",
+					"body",
+					"init",
+					"ImportWorkOrderBySystem",
+					"从工单系统中分页查询工单数",
+					"从工单系统中分页查询工单数据用时",
+					"(String)",
+					"_create",
+					"layout",
+					"(String)",
+					"，",
+					"(String)",
+					"(",
 					",\n",
-					"行",
-					"3、boolean",
-					"4、Enclosing",
-					"literal",
-					"6、Local",
-					"your",
-					"considered",
-					"value",
-					"representation",
-					"variables",
-					"information",
-					"of",
-					"different",
-					"Relying",
-					"4、Enclosing",
-					"This",
-					"05",
-					"17",
-					"DateTime",
-					"data",
-					"复制当前行内容到下一行：",
-					"移动当前行内容到下一行：",
-					"将当前屏幕分为上下左右四屏：",
-					"Alt",
-					"`",
-					"复制当前行内容到下一行：",
-					"`\n",
-					"\n``",
-					"复制当前行内容到下一行：",
-					"``\n",
-					"###",
-					"\n###",
-					"### ",
-					"##",
-					"label",
-					"SELECT",
-					"酥颗点肌",
-					"false",
-					"caret",
-					"caret\n",
-					"content",
-					"分页"
+					"baz",
+					"triangle",
+					"数据管理",
+					"数据集成",
+					"批量计算",
+					"安全管家服务",
+					"安全网络",
+					"先知计划",
+					"标准建站"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -742,15 +1489,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "E:\\git\\jeesite"
-				},
-				{
-					"path": "E:\\git\\dufuIsBusy.github.io"
-				}
-			],
 			"groups":
 			[
 				{
@@ -761,7 +1499,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 56.0
 			},
 			"input":
 			{
@@ -803,7 +1541,7 @@
 				"height": 130.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1047,0,7,1920",
+			"position": "0,2,3,-1,-1,-1,-1,680,2,0,1280",
 			"project": "",
 			"replace":
 			{
@@ -817,16 +1555,324 @@
 				"selected_items":
 				[
 					[
+						"mysql.md",
+						"repo\\repo\\mysql\\mysql.md"
+					],
+					[
+						"idea",
+						"repo\\repo\\tool\\idea.md"
+					],
+					[
+						"mybatis",
+						"repo\\repo\\java\\MyBatis.md"
+					],
+					[
+						"mysql.",
+						"repo\\repo\\mysql\\mysql.md"
+					],
+					[
+						"",
+						"{"
+					],
+					[
+						"git",
+						"repo\\repo\\tool\\git.md"
+					],
+					[
+						"git.md",
+						"repo\\repo\\tool\\git.md"
+					],
+					[
+						"sublime",
+						"repo\\repo\\tool\\sublime text.md"
+					],
+					[
+						"gitpush",
+						"repo\\rbtools\\rbtools\\clients\\testdata\\git-repo\\hooks\\pre-push.sample"
+					],
+					[
+						"linux",
+						"repo\\repo\\linux\\linux.md"
+					],
+					[
+						"idea.md",
+						"repo\\repo\\tool\\idea.md"
+					],
+					[
+						"readme.md",
+						"ali\\java-sdk-demo-mvn\\README.md"
+					],
+					[
+						"chrome",
+						"repo\\repo\\tool\\chrome.md"
+					],
+					[
+						"styl",
+						"ali\\oss-h5-upload-js-php\\style.css"
+					],
+					[
+						"demo.css",
+						"repo\\highcharts\\samples\\highcharts\\3d\\column\\demo.css"
+					],
+					[
+						"host",
+						"C:\\Windows\\System32\\drivers\\etc\\hosts"
+					],
+					[
+						"sublimem",
+						"repo\\repo\\tool\\sublime text.md"
+					],
+					[
+						"sublimemd",
+						"repo\\repo\\tool\\sublime text.md"
+					],
+					[
+						"demo-bs3.html",
+						"repo\\jsrender\\demos\\step-by-step\\03_converters-and-encoding.html"
+					],
+					[
+						"987.html",
+						"bootstrap-table-examples\\issues\\987.html"
+					],
+					[
+						"386.html",
+						"highcharts\\samples\\issues\\highcharts-4.1.1\\3866-datalabels-overlap-hidden-series\\demo.html"
+					],
+					[
+						"jquery.datatables.js",
+						"adminex_html-weidea.net\\html\\js\\data-tables\\jquery.dataTables.js"
+					],
+					[
+						"dt_bootstrap.js",
+						"adminex_html-weidea.net\\html\\js\\data-tables\\DT_bootstrap.js"
+					],
+					[
+						"editable-table.js",
+						"adminex_html-weidea.net\\html\\js\\editable-table.js"
+					],
+					[
+						"editable_table.html",
+						"adminex_html-weidea.net\\html\\editable_table.html"
+					],
+					[
+						"processtimefilter",
+						"vip\\src\\com\\mmcms\\common\\web\\ProcessTimeFilter.java"
+					],
+					[
+						"updaterow",
+						"bootstrap-table-examples\\methods\\updateRow.html"
+					],
+					[
+						"getdata.html",
+						"bootstrap-table-examples\\methods\\getData.html"
+					],
+					[
+						"chosen",
+						"bower\\bower_components\\chosen\\chosen.jquery.js"
+					],
+					[
+						"tableexport",
+						"tableExport.jquery.plugin\\tableExport.js"
+					],
+					[
+						"mybase64",
+						"sample\\mybase64.js"
+					],
+					[
+						"export.html",
+						"bootstrap-table-examples\\extensions\\export.html"
+					],
+					[
+						"431.html",
+						"bootstrap-table-examples\\issues\\431.html"
+					],
+					[
+						"424.html",
+						"bootstrap-table-examples\\issues\\424.html"
+					],
+					[
+						"getrowbyuniqueid.html",
+						"bootstrap-table-examples\\methods\\getRowByUniqueId.html"
+					],
+					[
+						"409.html",
+						"bootstrap-table-examples\\issues\\409.html"
+					],
+					[
+						"toolbar.html",
+						"bootstrap-table-examples\\extensions\\toolbar.html"
+					],
+					[
+						"917.html",
+						"bootstrap-table-examples\\issues\\917.html"
+					],
+					[
+						"406.html",
+						"bootstrap-table-examples\\issues\\406.html"
+					],
+					[
+						"221.html",
+						"bootstrap-table-examples\\issues\\221.html"
+					],
+					[
+						"177.html",
+						"bootstrap-table-examples\\issues\\177.html"
+					],
+					[
+						"152.html",
+						"bootstrap-table-examples\\issues\\152.html"
+					],
+					[
+						"137.html",
+						"bootstrap-table-examples\\issues\\137.html"
+					],
+					[
+						"bootstrap-table-toolbar.js",
+						"bower\\bower_components\\bootstrap-table\\dist\\extensions\\toolbar\\bootstrap-table-toolbar.js"
+					],
+					[
+						"resizable.html",
+						"bootstrap-table-examples\\extensions\\resizable.html"
+					],
+					[
+						"bootstrap-table-filter.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table-filter\\extension\\bootstrap-table-filter.js"
+					],
+					[
+						"filter-control.html",
+						"bootstrap-table-examples\\extensions\\filter-control.html"
+					],
+					[
+						"561.html",
+						"bootstrap-table-examples\\issues\\561.html"
+					],
+					[
+						"getoptions.html",
+						"bootstrap-table-examples\\methods\\getOptions.html"
+					],
+					[
+						"load.html",
+						"bootstrap-table-examples\\methods\\load.html"
+					],
+					[
+						"modal-table.html",
+						"bootstrap-table-examples\\options\\modal-table.html"
+					],
+					[
+						"986.html",
+						"bootstrap-table-examples\\issues\\986.html"
+					],
+					[
+						"579.html",
+						"bootstrap-table-examples\\issues\\579.html"
+					],
+					[
+						"resetview.html",
+						"bootstrap-table-examples\\methods\\resetView.html"
+					],
+					[
+						"415.html",
+						"bootstrap-table-examples\\issues\\415.html"
+					],
+					[
+						"getallselections.html",
+						"bootstrap-table-examples\\methods\\getAllSelections.html"
+					],
+					[
+						"updatebyuniqueid.html",
+						"bootstrap-table-examples\\methods\\updateByUniqueId.html"
+					],
+					[
+						"format.html",
+						"bootstrap-table-examples\\options\\format.html"
+					],
+					[
+						"337.html",
+						"bootstrap-table-examples\\issues\\337.html"
+					],
+					[
+						"radia",
+						"bootstrap-table-examples\\options\\disabled-checkbox.html"
+					],
+					[
+						"371.html",
+						"bootstrap-table-examples\\issues\\371.html"
+					],
+					[
+						"383.html",
+						"bootstrap-table-examples\\issues\\383.html"
+					],
+					[
+						"mergecells.html",
+						"bootstrap-table-examples\\methods\\mergeCells.html"
+					],
+					[
+						"boolean-options.html",
+						"bootstrap-table-examples\\options\\boolean-options.html"
+					],
+					[
+						"custom-ajax.html",
+						"bootstrap-table-examples\\options\\custom-ajax.html"
+					],
+					[
+						"editable.html",
+						"bootstrap-table-examples\\extensions\\editable.html"
+					],
+					[
+						"updaterow.html",
+						"bootstrap-table-examples\\methods\\updateRow.html"
+					],
+					[
+						"refresh.html",
+						"bootstrap-table-examples\\methods\\refresh.html"
+					],
+					[
+						"bootstrap-editable.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table\\src\\extensions\\editable\\bootstrap-table-editable.js"
+					],
+					[
+						"bootstrap-table-editable.js",
+						"bootstrap-table-examples\\assets\\bootstrap-table\\src\\extensions\\editable\\bootstrap-table-editable.js"
+					],
+					[
+						"refreshoptions.html",
+						"bootstrap-table-examples\\methods\\refreshOptions.html"
+					],
+					[
+						"remove.html",
+						"bootstrap-table-examples\\methods\\remove.html"
+					],
+					[
+						"server-side-pagination.html",
+						"bootstrap-table-examples\\options\\server-side-pagination.html"
+					],
+					[
+						"showloading-hideloading",
+						"bootstrap-table-examples\\methods\\showLoading-hideLoading.html"
+					],
+					[
+						"modal-table",
+						"bootstrap-table-examples\\options\\modal-table.html"
+					],
+					[
+						"ga",
+						"bootstrap-table-examples\\ga.js"
+					],
+					[
+						"inser",
+						"bootstrap-table-examples\\methods\\insertRow.html"
+					],
+					[
+						"form",
+						"框架样例\\form.html"
+					],
+					[
 						"brhx_new/in",
 						"brhx_new\\html\\index.html"
 					],
 					[
 						"inde",
 						"brhx\\html\\index.html"
-					],
-					[
-						"",
-						"index.html"
 					]
 				],
 				"width": 0.0
@@ -857,8 +1903,8 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 303.0,
-			"status_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": false,
 			"template_settings":
 			{
 			},
